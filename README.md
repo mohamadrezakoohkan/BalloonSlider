@@ -1,5 +1,5 @@
 
-![BalloonSlider]()
+![BalloonSlider](https://github.com/mohamadrezakoohkan/BalloonSlider/blob/master/screenCapture.m4v)
 
 # BalloonSlider
 `UISlier` with Animated Balloon representing slider value.
