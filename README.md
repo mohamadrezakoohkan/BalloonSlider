@@ -1,5 +1,5 @@
 
-![BalloonSlider](https://github.com/mohamadrezakoohkan/Dequer/blob/master/Dequer/Dequer.png)
+![BalloonSlider]()
 
 # BalloonSlider
 `UISlier` with Animated Balloon representing slider value.
