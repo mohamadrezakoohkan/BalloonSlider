@@ -27,6 +27,7 @@
 		DDA4DD9C2373350700BF3F11 /* Typomancer - Arch-LightCond.otf in Resources */ = {isa = PBXBuildFile; fileRef = DDA4DD962373350700BF3F11 /* Typomancer - Arch-LightCond.otf */; };
 		DDA4DD9D2373350700BF3F11 /* Typomancer - Arch-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = DDA4DD972373350700BF3F11 /* Typomancer - Arch-Bold.otf */; };
 		DDA4DD9F23733BDB00BF3F11 /* screenCapture.m4v in Resources */ = {isa = PBXBuildFile; fileRef = DDA4DD9E23733BDB00BF3F11 /* screenCapture.m4v */; };
+		DDA4DDA123733E2B00BF3F11 /* screenCapture.gif in Resources */ = {isa = PBXBuildFile; fileRef = DDA4DDA023733E2B00BF3F11 /* screenCapture.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		DDA4DD962373350700BF3F11 /* Typomancer - Arch-LightCond.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Typomancer - Arch-LightCond.otf"; sourceTree = "<group>"; };
 		DDA4DD972373350700BF3F11 /* Typomancer - Arch-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Typomancer - Arch-Bold.otf"; sourceTree = "<group>"; };
 		DDA4DD9E23733BDB00BF3F11 /* screenCapture.m4v */ = {isa = PBXFileReference; lastKnownFileType = file; path = screenCapture.m4v; sourceTree = SOURCE_ROOT; };
+		DDA4DDA023733E2B00BF3F11 /* screenCapture.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = screenCapture.gif; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				DDA4DD83237334EA00BF3F11 /* LICENSE.md */,
 				DDA4DD84237334EA00BF3F11 /* README.md */,
 				DDA4DD9E23733BDB00BF3F11 /* screenCapture.m4v */,
+				DDA4DDA023733E2B00BF3F11 /* screenCapture.gif */,
 			);
 			path = BalloonSlider;
 			sourceTree = "<group>";
@@ -250,6 +253,7 @@
 				DDA4DD9C2373350700BF3F11 /* Typomancer - Arch-LightCond.otf in Resources */,
 				DDA4DD9D2373350700BF3F11 /* Typomancer - Arch-Bold.otf in Resources */,
 				DDA4DD9F23733BDB00BF3F11 /* screenCapture.m4v in Resources */,
+				DDA4DDA123733E2B00BF3F11 /* screenCapture.gif in Resources */,
 				DDA4DD992373350700BF3F11 /* Typomancer - Arch-Cond.otf in Resources */,
 				DDA4DD532372B9D200BF3F11 /* LaunchScreen.storyboard in Resources */,
 				DDA4DD502372B9D200BF3F11 /* Assets.xcassets in Resources */,
