@@ -1,8 +1,8 @@
 
-![BalloonSlider](https://github.com/mohamadrezakoohkan/BalloonSlider/blob/master/screenCapture.gif)
-
 # BalloonSlider
 `UISlier` with Animated Balloon representing slider value.
+
+![BalloonSlider](https://github.com/mohamadrezakoohkan/BalloonSlider/blob/master/screenCapture.gif)
 
 ## Installation
 
