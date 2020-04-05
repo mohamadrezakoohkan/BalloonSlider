@@ -2,7 +2,7 @@
 # BalloonSlider
 `UISlier` with Animated Balloon representing slider value.
 
-![BalloonSlider](https://github.com/mohamadrezakoohkan/BalloonSlider/blob/master/screenCapture.gif)
+![BalloonSlider](https://github.com/mohamadrezakoohkan/BalloonSlider/blob/master/square.gif)
 
 ## Installation
 
